@@ -9,6 +9,8 @@ and reset network settings.
 
 - `Get-SystemInfo.ps1`: Gathers basic system details like OS version,
   architecture, BIOS version, and model information.
+- `Clear-TempFiles.ps1`: Deletes temproary files to free up system space
+  and impropve performance.
 
 ## How to Use
 
@@ -21,10 +23,4 @@ and reset network settings.
 Update README with project details
 
 
-## Scripts
-
-- `Get-SystemInfo.ps1`: Gathers basic system details like OS version,
-  architecture, BIOS version, and model information.
-- `Clear-TempFiles.ps1`: Deletes temporary files to free up system space
-  and improve performance.
 
