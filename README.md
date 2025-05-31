@@ -11,6 +11,8 @@ and reset network settings.
   architecture, BIOS version, and model information.
 - `Clear-TempFiles.ps1`: Deletes temproary files to free up system space
   and impropve performance.
+- `Reset-NetworkAdapter.ps1`: Disables and re-enables the active network
+  adapter to reset network connections. 
 
 ## How to Use
 
@@ -20,7 +22,7 @@ and reset network settings.
    ```powershell
    .\Get-SystemInfo.ps1
    .\Clear-TempFiles.ps1
-
+   .\Reset-NetworkAdapter.ps1
 
 
 
