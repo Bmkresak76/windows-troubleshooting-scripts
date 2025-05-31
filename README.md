@@ -19,8 +19,9 @@ and reset network settings.
 3. Run:
    ```powershell
    .\Get-SystemInfo.ps1
+   .\Clear-TempFiles.ps1
 
-Update README with project details
+
 
 
 
